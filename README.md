@@ -8,9 +8,8 @@ This project features a **beautiful UI**, **smooth transitions**, **glow effects
 
 | Login Page | Register Page | Secure Page |
 |------------|--------------|-------------|
-| ![Login Page](<img width="644" height="424" alt="image" src="https://github.com/user-attachments/assets/00c34a86-0802-4fbb-b099-f533a49f7329" /> | ![Register Page] <img width="669" height="449" alt="image" src="https://github.com/user-attachments/assets/ad3b4191-b177-46f8-9ee4-b5cb3e1fa3c1" />
-/ | ![Secure Page](<img width="641" height="344" alt="image" src="https://github.com/user-attachments/assets/36b19b17-d352-434a-a92b-edad581f1074" />
- |
+| ![Login Page](<img width="644" height="424" alt="image" src="https://github.com/user-attachments/assets/00c34a86-0802-4fbb-b099-f533a49f7329" /> | ![Register Page] <img width="669" height="449" alt="image" src="https://github.com/user-attachments/assets/ad3b4191-b177-46f8-9ee4-b5cb3e1fa3c1" />| ![Secure Page](<img width="641" height="344" alt="image" src="https://github.com/user-attachments/assets/36b19b17-d352-434a-a92b-edad581f1074" />
+
 
 ## ✨ Features
 - 📝 **Register & Login** with credentials  
